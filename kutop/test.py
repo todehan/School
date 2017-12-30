@@ -1,8 +1,5 @@
 
 
-# py2exe
-
-#distrowatch
 
 from kutuphane import *
 from ogrenci import *
