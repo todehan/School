@@ -1,3 +1,3 @@
 
-# Genellikle okulda yaptığım basit uygulamaların bulunduğu yer.
+# Genellikle okulda yaptığım projeler ve soru çözümleri.
 
